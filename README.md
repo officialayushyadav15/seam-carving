@@ -37,7 +37,7 @@ pip install opencv-python numpy matplotlib
 | ![Input 1](1.jpg) | ![Input 2](2.jpg) |
 
 ### 🏆 Output Panorama  
-![Stitched Panorama](Samples/panorama_seam_carving.png)
+![Stitched Panorama](panorama_seam_carving.png)
 
 
 
